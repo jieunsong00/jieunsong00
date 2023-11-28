@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**jieunsong00/jieunsong00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Studied in
+- Suwon University, Major in Data Science (2019.02 - 2023.08)
 
-Here are some ideas to get you started:
+### Careers
+- Dacon, Data Science Team Intern (2022.08.10 ~ 2023.07.10)
+- Dacon, Data Science Team Manager (2023.07.11 ~)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Awards
+### Projects
+
+### Works
+- [[기업은행] 인공지능 교육 및 내부 해커톤 관리](23.10.16~ 23.11.17)(https://dacon.io/competitions/official/236165/overview/description)
+- [[연암공대] 인공지능 교육 및 내부 해커톤 관리](23.09.27 ~ 2023.10.11)(https://dacon.io/competitions/official/236157/overview/description)
+- [[수원대학교] 인공지능 교육 및 내부 해커톤 관리](2023.07.27 ~ 2023.08.03)](https://dacon.io/competitions/official/236130/overview/description)
